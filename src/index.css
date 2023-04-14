@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family:'Inconsolata-Regular';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: linear-gradient(to bottom right, #000, #ccc);
+  height: 100vh;
+}
+
+code {
+  font-family:'Inconsolata-Regular';
+}
+@media (max-width: 767px) {
+  html,body{
+    overflow-x: hidden;
+  }
+}

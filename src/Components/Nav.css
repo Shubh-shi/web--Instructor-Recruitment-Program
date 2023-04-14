@@ -1,0 +1,40 @@
+.butoons{
+color: black;
+border: 1px solid #CCCCCC;
+width: 170px;
+margin:0 1rem 0 1rem;
+border-radius: 50px;
+padding:8px 0px 8px 0px;
+
+}
+.butoons:hover{
+    color:  #0099e6;
+border: 1px solid  #0099e6;
+width: 170px;
+margin:0 1rem 0 1rem;
+border-radius: 50px;
+padding:8px 0px 8px 0px;
+background: #fff;
+}
+.logo-6 h3 {
+    color: #fff;
+    font-family: 'Cinzel', serif;
+    font-weight: 300;
+    font-size: 20px;
+    line-height:1.3;
+    margin: 2px;
+}
+.logo-6 h3 span {
+    background: #8c8c8c;
+    color: #fff;
+    display: inline-block;
+    line-height: 1.8;
+    padding: 0 16px;
+}
+.frem{
+    border-radius: 5px;
+    border: none;
+    box-shadow:rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    
+
+}

@@ -128,7 +128,7 @@ const Userform = () => {
                 </Box>
               </Box>
             </Grid>
-            <Grid lg={6} md={6} sm={6} sx={{boxShadow:"rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px",px:3,background:"#fff",py:3}}>
+            <Grid lg={6} md={6} sm={6} sx={{boxShadow:"rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px",px:3,background:"#fff",py:3,borderRadius:"8px"}}>
                 <form onSubmit={createUser}>
               <TextField
                 id="name"
